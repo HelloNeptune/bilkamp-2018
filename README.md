@@ -43,7 +43,7 @@ Değil!, ancak bir Nodejs projesinin yönetimini ve bağımlılıklarını farkl
 veya farklı ekipler ile geliştirmek istenildiğinde, zaman ve hata olasılıklalarını
 minimum seviyeye indirir.
 
-#####NPM kurulumu
+##### NPM kurulumu
 NPM, kullanabilmek için, Nodejs'in bilgisayarda kurulu olması yeterli.
 
 ##### Gulp nedir?
